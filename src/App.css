@@ -1,0 +1,12 @@
+html{
+  margin: 0;
+}
+
+@font-face {
+  font-family:"Rubik" ;
+  src: url(../public/fonts/Rubik/Rubik-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family:"Caprasimo-Regular" ;
+  src: url(../public/fonts/Caprasimo-Regular.ttf);
+}
